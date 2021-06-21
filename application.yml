@@ -1,1 +1,3 @@
 
+welcome:
+  message: Welcome to Spring cloud config server
